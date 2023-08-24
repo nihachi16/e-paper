@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg355"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="e-Frame.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview357"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.9927668"
+     inkscape:cx="585.73675"
+     inkscape:cy="764.53"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="1086"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1349-1-0-7" />
+  <defs
+     id="defs352">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="11.324"
+       markerHeight="13.09133"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-79" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-79-3" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-79-3-2" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="207.09979"
+       height="144.30321"
+       id="rect3830-3-7-6-79-3-6" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="120.82114"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-3" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-5" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-5-1" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="142.85693"
+       height="25.051159"
+       id="rect3830-3-7-6-7-3-5-5-1-5" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-9" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-9-1" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="161.89799"
+       height="25.051159"
+       id="rect3830-3-7-6-7-3-4" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-53" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-0" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-46" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-51" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-46-3" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-51-9" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="142.85693"
+       height="25.051159"
+       id="rect3830-3-7-6-7-3-5-5-1-5-7" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-9-1-4" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-46-3-8" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-51-9-6" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="142.85693"
+       height="25.051159"
+       id="rect3830-3-7-6-7-3-5-5-1-5-7-8" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-9-1-4-3" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="11.324"
+       markerHeight="13.09133"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1" />
+    </marker>
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="360.27109"
+       height="204.27116"
+       id="rect3830-3-7-6-79-0" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="120.82114"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="120.82114"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-4" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="120.82114"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-9" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-7" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-1" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="125.03873"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-2" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="125.03873"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-2-6" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="125.03873"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-2-69" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="125.03873"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-2-6-7" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-3" />
+    <rect
+       x="251.42731"
+       y="351.8558"
+       width="102.56525"
+       height="38.461967"
+       id="rect1440-3-9" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="125.03873"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-2-69-6" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="125.03873"
+       height="26.814043"
+       id="rect3830-3-7-6-7-2-3-2-69-7" />
+    <rect
+       x="199.43243"
+       y="474.7204"
+       width="112.53687"
+       height="26.353571"
+       id="rect3830-3-7-6-7-3-5-3-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.330585,25.064127 V 240.59482"
+       id="path1680"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 248.34033,95.315143 0,106.549337"
+       id="path1680-67-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 293.00583,138.89497 v 40.08409"
+       id="path1680-67-2-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 293.00583,178.97906 H 252.92175"
+       id="path1680-67-2-3-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 293.00583,138.89497 H 252.92175"
+       id="path1680-67-2-3-9-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 192.77168,118.30975 V 240.59482"
+       id="path1680-67"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 199.83422,110.97056 V 219.79855"
+       id="path1680-67-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="M 54.930456,118.30975 H 192.77168"
+       id="path1680-67-1-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart-0)"
+       d="m 54.96965,58.000203 h 4.518767"
+       id="path1680-67-1-0-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 59.488417,110.97056 H 199.83422"
+       id="path1680-67-1-0-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.330585,159.32632 H 192.77168"
+       id="path1680-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.330585,178.80724 H 192.77168"
+       id="path1680-6-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.330585,199.00229 H 192.77168"
+       id="path1680-6-3"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+       id="rect9304-9"
+       width="37.501904"
+       height="14.647628"
+       x="15.579633"
+       y="10.4165" />
+    <g
+       id="g513"
+       transform="translate(-16.190864,-86.156888)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,-39.566078,-122.76267)"
+       id="text3828-3-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="224.30032"
+         y="491.87064"
+         id="tspan12879"><tspan
+           style="font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic'"
+           id="tspan12875">電源</tspan><tspan
+           style="font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic'"
+           id="tspan12877">ON</tspan></tspan></text>
+    <g
+       id="g1134"
+       transform="translate(-42.794925,2.1264056)">
+      <g
+         id="g513-2"
+         transform="translate(26.604061,-48.023404)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.1987023,-84.629185)"
+         id="text3828-3-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="218.13784"
+           y="491.52064"
+           id="tspan12881">Wi-Fi接続</tspan></text>
+    </g>
+    <g
+       id="g1140"
+       transform="translate(27.874491,-1.505507)">
+      <g
+         id="g513-2-0"
+         transform="translate(-44.065355,-24.3351)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,-67.470713,-60.940881)"
+         id="text3828-3-0-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="205.67122"
+           y="491.52064"
+           id="tspan12883">NTP時刻取得</tspan></text>
+    </g>
+    <g
+       id="g1349"
+       transform="translate(89.871109,57.51883)">
+      <g
+         id="g513-2-0-2"
+         transform="translate(26.604061,-2.2146823)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.1987023,-38.820463)"
+         id="text3828-3-0-9-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="209.84204"
+           y="491.52064"
+           id="tspan12885">4:59 DS復帰</tspan></text>
+    </g>
+    <g
+       id="g1349-6"
+       transform="translate(43.483627,90.303439)">
+      <g
+         id="g2628"
+         transform="translate(-86.278551,-53.51019)">
+        <g
+           id="g513-2-0-2-4"
+           transform="translate(26.604061,-2.2146823)">
+          <rect
+             style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+             id="rect9304-9-5-8-3-7"
+             width="37.501904"
+             height="14.647628"
+             x="31.770496"
+             y="96.573387" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.28938868,0,0,0.28938868,-4.0376536,-38.820463)"
+           id="text3828-3-0-9-3-1-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-4);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           x="25.329069"
+           y="0"><tspan
+             x="218.4936"
+             y="491.52064"
+             id="tspan12887">DS復帰時刻設定</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1343"
+       transform="translate(46.743609,80.131349)">
+      <g
+         id="g513-2-0-2-9"
+         transform="translate(26.485895,-24.827201)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-3"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+         id="text3828-3-0-9-3-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="227.94614"
+           y="491.52064"
+           id="tspan12889">DS移行</tspan></text>
+    </g>
+    <g
+       id="g1349-3"
+       transform="translate(89.871109,76.999751)">
+      <g
+         id="g513-2-0-2-7"
+         transform="translate(26.604061,-2.2146823)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-4"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.1987023,-38.820463)"
+         id="text3828-3-0-9-3-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-53);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="210.40037"
+           y="491.52064"
+           id="tspan12891">7:59 DS復帰</tspan></text>
+    </g>
+    <g
+       id="g1343-8"
+       transform="translate(46.743609,99.61227)">
+      <g
+         id="g513-2-0-2-9-3"
+         transform="translate(26.485895,-24.827201)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-3-6"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+         id="text3828-3-0-9-3-1-8-86"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-0);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="227.94614"
+           y="491.52064"
+           id="tspan12893">DS移行</tspan></text>
+    </g>
+    <g
+       id="g1349-1"
+       transform="translate(89.871109,97.4448)">
+      <g
+         id="g513-2-0-2-6"
+         transform="translate(26.604061,-2.2146823)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-31"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.1987023,-38.820463)"
+         id="text3828-3-0-9-3-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-46);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="205.16289"
+           y="491.52064"
+           id="tspan12895">hh:59 DS復帰</tspan></text>
+    </g>
+    <g
+       id="g1343-4"
+       transform="translate(46.743609,120.05732)">
+      <g
+         id="g513-2-0-2-9-2"
+         transform="translate(26.485895,-24.827201)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-3-90"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+         id="text3828-3-0-9-3-1-8-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-51);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="227.94614"
+           y="491.52064"
+           id="tspan12897">DS移行</tspan></text>
+    </g>
+    <g
+       id="g1343-5"
+       transform="translate(9.905303,71.156053)">
+      <g
+         id="g1514"
+         transform="translate(-6.4073603,8.9752957)">
+        <g
+           id="g513-2-0-2-9-42"
+           transform="translate(26.485895,-24.827201)">
+          <rect
+             style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+             id="rect9304-9-5-8-3-3-2"
+             width="37.501904"
+             height="14.647628"
+             x="31.770496"
+             y="96.573387" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+           id="text3828-3-0-9-3-1-8-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-5);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           x="25.329069"
+           y="0"><tspan
+             x="213.03369"
+             y="491.52064"
+             id="tspan12899">夜画像表示</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1343-5-8"
+       transform="translate(35.534744,63.403723)">
+      <g
+         id="g1514-4"
+         transform="translate(-6.4073603,8.9752957)">
+        <g
+           id="g1573"
+           transform="translate(-25.629441,27.233251)">
+          <g
+             id="g513-2-0-2-9-42-1"
+             transform="translate(26.485895,-24.827201)">
+            <rect
+               style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+               id="rect9304-9-5-8-3-3-2-9"
+               width="37.501904"
+               height="14.647628"
+               x="31.770496"
+               y="96.573387" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+             id="text3828-3-0-9-3-1-8-9-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-5-1);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+             x="25.329069"
+             y="0"><tspan
+               x="199.79208"
+               y="491.52064"
+               id="tspan12901">カレンダ0表示</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1343-5-8-8"
+       transform="translate(35.534744,83.848772)">
+      <g
+         id="g1514-4-9"
+         transform="translate(-6.4073603,8.9752957)">
+        <g
+           id="g1573-3"
+           transform="translate(-25.629441,27.233251)">
+          <g
+             id="g513-2-0-2-9-42-1-1"
+             transform="translate(26.485895,-24.827201)">
+            <rect
+               style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+               id="rect9304-9-5-8-3-3-2-9-7"
+               width="37.501904"
+               height="14.647628"
+               x="31.770496"
+               y="96.573387" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.28938868,0,0,0.28938868,-1.3669302,-61.322287)"
+             id="text3828-3-0-9-3-1-8-9-1-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-5-1-5);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+             x="25.329069"
+             y="0"><tspan
+               x="211.12725"
+               y="491.52064"
+               id="tspan12903">ループ画像表示</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1343-3"
+       transform="translate(-20.660262,35.839182)">
+      <g
+         id="g1460"
+         transform="translate(-22.016497,3.5101947)">
+        <g
+           id="g513-2-0-2-9-4"
+           transform="translate(26.485895,-24.827201)">
+          <rect
+             style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+             id="rect9304-9-5-8-3-3-9"
+             width="37.501904"
+             height="14.647628"
+             x="31.770496"
+             y="96.573387" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+           id="text3828-3-0-9-3-1-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           x="25.329069"
+           y="0"><tspan
+             x="204.50039"
+             y="491.52064"
+             id="tspan12905">時刻チェック</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1343-3-7"
+       transform="translate(-20.660261,15.53279)">
+      <g
+         id="g1460-1"
+         transform="translate(-22.016497,3.5101947)">
+        <g
+           id="g513-2-0-2-9-4-1"
+           transform="translate(26.485895,-24.827201)">
+          <rect
+             style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+             id="rect9304-9-5-8-3-3-9-9"
+             width="37.501904"
+             height="14.647628"
+             x="31.770496"
+             y="96.573387" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+           id="text3828-3-0-9-3-1-8-8-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-3-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           x="25.329069"
+           y="0"><tspan
+             x="204.50039"
+             y="491.52064"
+             id="tspan12907">画像情報更新</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1128"
+       transform="translate(-42.794925,6.7451963)">
+      <g
+         id="g513-2-0-4"
+         transform="translate(26.604061,-72.698586)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-4"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,1.978184,-109.26119)"
+         id="text3828-3-0-9-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-2);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="200.10967"
+           y="491.52064"
+           id="tspan12909">最初の画像表示</tspan></text>
+    </g>
+    <path
+       id="rect7227"
+       style="fill:#0038a6;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+       d="m 248.44644,131.57115 28.25017,7.32381 -28.25017,7.32382 -28.25017,-7.32381 z"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g513-2-05"
+       transform="matrix(1.6984925,0,0,4.5348865,84.644331,-427.38574)">
+      <rect
+         style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+         id="rect9304-9-5-0"
+         width="37.501904"
+         height="14.647628"
+         x="31.770496"
+         y="96.573387" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,97.728818,-122.61556)"
+       id="text3828-3-0-9-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-79);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="205.08372"
+         y="491.52064"
+         id="tspan12911">画像IDルール</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,161.5508,-122.82764)"
+       id="text3828-3-0-9-1-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:start;white-space:pre;shape-inside:url(#rect3830-3-7-6-79-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="5.5624771"
+       y="0"><tspan
+         x="199.43164"
+         y="491.52064"
+         id="tspan12913">要件
+</tspan><tspan
+         x="199.43164"
+         y="513.97056"
+         id="tspan12915">・2枚1組の.bmp
+</tspan><tspan
+         x="199.43164"
+         y="536.42048"
+         id="tspan12917">・サーバからSDカードへの.bmp保存
+</tspan><tspan
+         x="199.43164"
+         y="558.87037"
+         id="tspan12919">・SDカードから内蔵メモリへの.bmpコピー
+</tspan><tspan
+         x="199.43164"
+         y="581.32026"
+         id="tspan12921">・電池残量表示
+</tspan><tspan
+         x="199.43164"
+         y="603.77015"
+         id="tspan12923">・OTA
+</tspan><tspan
+         x="199.43164"
+         y="626.22004"
+         id="tspan12925">・1回/日のNTP時刻取得
+</tspan><tspan
+         x="199.43164"
+         y="648.66993"
+         id="tspan12927">・DeepSleep
+</tspan><tspan
+         x="199.43164"
+         y="671.11982"
+         id="tspan12929">・</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,97.764992,-114.03412)"
+       id="text3828-3-0-9-1-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-79-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="225.83364"
+         y="491.87064"
+         id="tspan12931">1yymmdd</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,97.766198,-108.0841)"
+       id="text3828-3-0-9-1-3-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-79-3-2);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="225.83364"
+         y="491.87064"
+         id="tspan12933">2cnnnnn</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,84.657154,-102.14948)"
+       id="text3828-3-0-9-1-3-67"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:justify;white-space:pre;shape-inside:url(#rect3830-3-7-6-79-3-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="199.43164"
+         y="491.87064"
+         id="tspan12937"><tspan
+   style="font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic'"
+   id="tspan12935">t   </tspan>: [1 : カレンダ][2 : 画像]
+</tspan><tspan
+         x="199.43164"
+         y="514.67056"
+         id="tspan12941"><tspan
+   style="font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic'"
+   id="tspan12939">yy  </tspan>: 西暦下2桁
+</tspan><tspan
+         x="199.43164"
+         y="537.47049"
+         id="tspan12945"><tspan
+   style="font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic'"
+   id="tspan12943">mm  </tspan>: 月2桁
+</tspan><tspan
+         x="199.43164"
+         y="560.27042"
+         id="tspan12949"><tspan
+   style="font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic'"
+   id="tspan12947">dd  </tspan>: 日2桁
+</tspan><tspan
+         x="199.43164"
+         y="583.07034"
+         id="tspan12953"><tspan
+   style="font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic'"
+   id="tspan12951">c   </tspan>: [1 : black][2 : red]
+</tspan><tspan
+         x="199.43164"
+         y="605.87027"
+         id="tspan12957"><tspan
+   style="font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic'"
+   id="tspan12955">nnnnn </tspan>: 任意の数列</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.735162,61.093414)"
+       id="text1438"
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440);display:inline;fill:#800080;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="251.42773"
+         y="367.93359"
+         id="tspan12961"><tspan
+           style="fill:#000000"
+           id="tspan12959">0:16-4:50</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,153.09107,52.49737)"
+       id="text1438-95"
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440-3);display:inline;fill:#800080;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="251.42773"
+         y="367.93359"
+         id="tspan12965"><tspan
+           style="fill:#000000"
+           id="tspan12963">許容電圧未満</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,213.77708,39.864599)"
+       id="text1438-95-3"
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440-3-9);display:inline;fill:#800080;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="251.42773"
+         y="367.93359"
+         id="tspan12969"><tspan
+           style="fill:#000000"
+           id="tspan12967">許容電圧以上</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.735162,80.574336)"
+       id="text1438-9"
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440-9);display:inline;fill:#800080;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="251.42773"
+         y="367.93359"
+         id="tspan12973"><tspan
+           style="fill:#000000"
+           id="tspan12971">4:51-7:50</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-28.851829,101.01938)"
+       id="text1438-9-9"
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440-9-1);display:inline;fill:#800080;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="251.42773"
+         y="367.93359"
+         id="tspan12977"><tspan
+           style="fill:#000000"
+           id="tspan12975">7:51-22:50</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7592"
+       width="2.7650521"
+       height="2.7650521"
+       x="191.34587"
+       y="218.54102" />
+    <path
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440);display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.330585,219.79855 H 199.83422"
+       id="path1680-6-3-6"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1349-1-0"
+       transform="translate(89.871109,118.24106)">
+      <g
+         id="g513-2-0-2-6-0"
+         transform="translate(26.604061,-2.2146823)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-31-2"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.1987023,-38.820463)"
+         id="text3828-3-0-9-3-1-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-46-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="205.50872"
+           y="491.52064"
+           id="tspan12979">23:55 DS復帰</tspan></text>
+    </g>
+    <g
+       id="g1343-4-7"
+       transform="translate(46.743609,140.85358)">
+      <g
+         id="g513-2-0-2-9-2-2"
+         transform="translate(26.485895,-24.827201)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-3-90-3"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+         id="text3828-3-0-9-3-1-8-4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-51-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="227.94614"
+           y="491.52064"
+           id="tspan12981">DS移行</tspan></text>
+    </g>
+    <g
+       id="g1343-5-8-8-3"
+       transform="translate(35.534744,104.64504)">
+      <g
+         id="g1514-4-9-0"
+         transform="translate(-6.4073603,8.9752957)">
+        <g
+           id="g1573-3-3"
+           transform="translate(-25.629441,27.233251)">
+          <g
+             id="g513-2-0-2-9-42-1-1-1"
+             transform="translate(26.485895,-24.827201)">
+            <rect
+               style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+               id="rect9304-9-5-8-3-3-2-9-7-1"
+               width="37.501904"
+               height="14.647628"
+               x="31.770496"
+               y="96.573387" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.28938868,0,0,0.28938868,-1.3669302,-61.322287)"
+             id="text3828-3-0-9-3-1-8-9-1-1-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-5-1-5-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+             x="25.329069"
+             y="0"><tspan
+               x="214.95223"
+               y="491.52064"
+               id="tspan12983">カレンダ0表示</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-31.082184,121.81565)"
+       id="text1438-9-9-9"
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440-9-1-4);display:inline;fill:#800080;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="251.42773"
+         y="367.93359"
+         id="tspan12987"><tspan
+           style="fill:#000000"
+           id="tspan12985">22:51-23:54</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.330585,240.59482 H 192.77168"
+       id="path1680-6-3-6-0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1349-1-0-7"
+       transform="translate(89.871109,139.03733)">
+      <g
+         id="g513-2-0-2-6-0-3"
+         transform="translate(26.604061,-2.2146823)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-31-2-9"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.1987023,-38.820463)"
+         id="text3828-3-0-9-3-1-0-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-46-3-8);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="210.1462"
+           y="491.52064"
+           id="tspan12989">0:20 DS復帰</tspan></text>
+    </g>
+    <g
+       id="g1343-4-7-6"
+       transform="translate(46.743609,161.64985)">
+      <g
+         id="g513-2-0-2-9-2-2-3"
+         transform="translate(26.485895,-24.827201)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-3-3-90-3-7"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,3.0805362,-61.432982)"
+         id="text3828-3-0-9-3-1-8-4-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-51-9-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="227.94614"
+           y="491.52064"
+           id="tspan12991">DS移行</tspan></text>
+    </g>
+    <g
+       id="g1343-5-8-8-3-9"
+       transform="translate(35.534744,125.44131)">
+      <g
+         id="g1514-4-9-0-8"
+         transform="translate(-6.4073603,8.9752957)">
+        <g
+           id="g1573-3-3-2"
+           transform="translate(-25.629441,27.233251)">
+          <g
+             id="g513-2-0-2-9-42-1-1-1-8"
+             transform="translate(26.485895,-24.827201)">
+            <rect
+               style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+               id="rect9304-9-5-8-3-3-2-9-7-1-8"
+               width="37.501904"
+               height="14.647628"
+               x="31.770496"
+               y="96.573387" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.28938868,0,0,0.28938868,-1.3669302,-61.322287)"
+             id="text3828-3-0-9-3-1-8-9-1-1-4-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-3-5-5-1-5-7-8);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+             x="25.329069"
+             y="0"><tspan
+               x="216.82306"
+               y="491.52064"
+               id="tspan12993">カレンダ1表示</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-28.851829,142.61192)"
+       id="text1438-9-9-9-0"
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440-9-1-4-3);display:inline;fill:#800080;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="251.42773"
+         y="367.93359"
+         id="tspan12997"><tspan
+           style="fill:#000000"
+           id="tspan12995">23:55-0:15</tspan></tspan></text>
+    <path
+       style="font-size:16px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic';text-align:justify;white-space:pre;shape-inside:url(#rect1440);display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 59.488417,58.000203 V 110.97056"
+       id="path1680-67-9"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g513-2-0-4-9"
+       transform="translate(197.51798,54.478678)">
+      <rect
+         style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+         id="rect9304-9-5-8-4-7"
+         width="37.501904"
+         height="14.647628"
+         x="31.770496"
+         y="96.573387" />
+    </g>
+    <g
+       id="g513-2-0-4-9-8"
+       transform="translate(197.51798,15.51685)">
+      <rect
+         style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+         id="rect9304-9-5-8-4-7-6"
+         width="37.501904"
+         height="14.647628"
+         x="31.770496"
+         y="96.573387" />
+    </g>
+    <g
+       id="g513-2-0-4-9-8-3"
+       transform="translate(197.51798,74.923727)">
+      <rect
+         style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+         id="rect9304-9-5-8-4-7-6-7"
+         width="37.501904"
+         height="14.647628"
+         x="31.770496"
+         y="96.573387" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,172.72756,38.355329)"
+       id="text3828-3-0-9-3-5-9-5-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-2-3-2-69);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="227.81797"
+         y="491.52064"
+         id="tspan12999">画面描画</tspan></text>
+    <g
+       id="g513-2-0-4-9-8-3-1"
+       transform="translate(197.51798,95.719994)">
+      <rect
+         style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+         id="rect9304-9-5-8-4-7-6-7-6"
+         width="37.501904"
+         height="14.647628"
+         x="31.770496"
+         y="96.573387" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,172.72756,59.151596)"
+       id="text3828-3-0-9-3-5-9-5-2-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-2-3-2-69-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="208.33471"
+         y="491.52064"
+         id="tspan13001">rm内蔵メモリ</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,172.64315,17.910281)"
+       id="text3828-3-0-9-3-5-9-5-2-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-2-3-2-69-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="202.21807"
+         y="491.52064"
+         id="tspan13003">アイコン上書き</tspan></text>
+    <g
+       id="g1128-3"
+       transform="translate(191.98363,87.019609)">
+      <g
+         id="g513-2-0-4-9-3"
+         transform="translate(5.389652,-91.947808)">
+        <rect
+           style="fill:#0038a6;fill-opacity:1;stroke:none;stroke-width:0.521415;stroke-opacity:1"
+           id="rect9304-9-5-8-4-7-5"
+           width="37.501904"
+           height="14.647628"
+           x="31.770496"
+           y="96.573387" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28938868,0,0,0.28938868,-19.236226,-128.51041)"
+         id="text3828-3-0-9-3-5-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-2-3-4);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="25.329069"
+         y="0"><tspan
+           x="242.77617"
+           y="491.52064"
+           id="tspan13005">開始</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,172.53463,-1.518557)"
+       id="text3828-3-0-9-3-5-9-5-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-2-3-2-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="227.81797"
+         y="491.52064"
+         id="tspan13007">電圧確認</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28938868,0,0,0.28938868,172.67933,-21.319231)"
+       id="text3828-3-0-9-3-5-9-5-6-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0666px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect3830-3-7-6-7-2-3-2-6-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.329069"
+       y="0"><tspan
+         x="199.62225"
+         y="491.52064"
+         id="tspan13009">cpSD内蔵メモリ</tspan></text>
+  </g>
+</svg>
