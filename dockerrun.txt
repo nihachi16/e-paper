@@ -1,12 +1,38 @@
---net=host --ipc=host \
+まず、新しいDockerイメージを作成するため、以下の内容をDockerfileに保存します:
+FROM nvcr.io/nvidia/l4t-base:r32.5.0
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+        mesa-utils \
+        mesa-utils-extra \
+        libgl1-mesa-dri \
+        libegl1-mesa \
+        libgles2-mesa \
+        pkg-config \
+        xserver-xorg-core \
+        xserver-xorg-video-fbdev && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN groupadd -g 99 video
+RUN useradd -ms /bin/bash --uid 777 -g video test_user
+USER test_user
+ENV DISPLAY=:1
+ENV XDG_RUNTIME_DIR=/home/test_user
+
+次に、以下のコマンドを使用してDockerイメージをビルドします:
+
+$ docker build -t glmark2-image .
+
+次に、以下のコマンドでDockerコンテナを起動します:
+$ xhost +local:user
+$ docker run -it --rm \
+    --runtime=nvidia \
     --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
-    --volume="/etc/localtime:/etc/localtime:ro" \
+    --env="DISPLAY" \
     --device=/dev/nvidia0:/dev/nvidia0 \
     --device=/dev/nvidiactl:/dev/nvidiactl \
     --device=/dev/nvidia-uvm:/dev/nvidia-uvm \
-    --env="DISPLAY" \
-    --env="QT_X11_NO_MITSHM=1" \
-    --env="XAUTHORITY=$XAUTHORITY" \
-    --expose="6600,6601,6602" \
-    --runtime=nvidia \
+    --device=/dev/nvidia-modeset:/dev/nvidia-modeset \
+    --device="/dev/bus/usb:/dev/bus/usb" \
+    --group-add="video" \
     glmark2-image
