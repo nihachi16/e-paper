@@ -1,0 +1,12 @@
+--net=host --ipc=host \
+    --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
+    --volume="/etc/localtime:/etc/localtime:ro" \
+    --device=/dev/nvidia0:/dev/nvidia0 \
+    --device=/dev/nvidiactl:/dev/nvidiactl \
+    --device=/dev/nvidia-uvm:/dev/nvidia-uvm \
+    --env="DISPLAY" \
+    --env="QT_X11_NO_MITSHM=1" \
+    --env="XAUTHORITY=$XAUTHORITY" \
+    --expose="6600,6601,6602" \
+    --runtime=nvidia \
+    glmark2-image
